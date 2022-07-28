@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    background: #352D39;
+}
+
+.titulo {
+ text-align: center;
+ font-family: 'Abril Fatface', cursive;
+ color: #F3DE8A;
+}
+
+.alert {
+ text-align: center;
+ color: white;
+ background-color: #352D39;
+ font-family: 'Secular one', sans-serif;
+}
+
